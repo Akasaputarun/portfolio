@@ -14,7 +14,7 @@ function AboutCard() {
           </p>
           <p className="home-about-body">
             I am currently advancing my academic journey with a <span className="purple">graduate degree in Computer Science</span> at the University of North Carolina at Charlotte.
-            My professional experience includes roles at <span className="purple">HCA Healthcare</span> and <span className="purple">Intex Technologies</span> as a Software Engineer. These positions have provided me with significant practical experience and the chance to work alongside remarkable colleagues. Their diverse experiences and valuable feedback have been instrumental in my growth.
+            My professional experience includes roles at <span className="purple">Freddie Mac</span> and <span className="purple">Intex Technologies</span> as a Software Engineer. These positions have provided me with significant practical experience and the chance to work alongside remarkable colleagues. Their diverse experiences and valuable feedback have been instrumental in my growth.
           </p>
           <br />
           <p className="home-about-body">
